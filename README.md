@@ -1,2 +1,3 @@
 <h1>Salon Clients Table</h1>
-![picture](salon-data/ERD.png)
+<img src="ERD.png"
+     alt="ERD" />
