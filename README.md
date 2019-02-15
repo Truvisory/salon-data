@@ -1,3 +1,3 @@
-<h1>Salon Clients Table</h1>
+<h1>Salon Client's Table</h1>
 <img src="ERD.png"
      alt="ERD" />
